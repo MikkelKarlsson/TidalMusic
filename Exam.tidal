@@ -1,0 +1,7 @@
+d1
+    $ slow 2
+    $ s "sax"
+    # room 0.8
+    # sustain 4
+
+d1 silence
